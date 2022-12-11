@@ -23,7 +23,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "pages/index.js"  ],
+, "pages/index.js", "components/SendSOL.tsx"  ],
   "exclude": [
     "node_modules"
   ]
